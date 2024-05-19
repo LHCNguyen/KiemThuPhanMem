@@ -1,0 +1,463 @@
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Data\TestData.csv
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.pdb
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.exe
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.pdb
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.exe.config
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.csproj.AssemblyReference.cache
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.csproj.CoreCompileInputs.cache
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.pdb
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\Rectangu.9BC168A5.Up2Date
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.dll.config
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.MSBuild.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\NuGet.Frameworks.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Buffers.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Collections.Immutable.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Memory.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Numerics.Vectors.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Reflection.Metadata.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.pdb
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.MSBuild.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\NuGet.Frameworks.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Buffers.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Collections.Immutable.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Memory.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Numerics.Vectors.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Reflection.Metadata.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.dll.config
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.pdb
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.MSBuild.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\NuGet.Frameworks.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.exe
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Buffers.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Collections.Immutable.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Memory.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Numerics.Vectors.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Reflection.Metadata.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Build.Framework.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.NET.StringTools.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.pdb
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.exe.config
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.pdb
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.MSBuild.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\NuGet.Frameworks.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Buffers.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Collections.Immutable.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Memory.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Numerics.Vectors.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Reflection.Metadata.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\en\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.csproj.AssemblyReference.cache
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.csproj.CoreCompileInputs.cache
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.dll
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.pdb
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\obj\Debug\Rectangu.9BC168A5.Up2Date
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\DataDienTich\TestDienTich.csv
+G:\kiểm thử phần mềm NUNIT\RectangularArea\RectangularAreaTester\bin\Debug\DataChuVi\TestChuVi.csv
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.dll.config
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\RectangularAreaTester.pdb
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.MSBuild.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\NuGet.Frameworks.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.exe
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Buffers.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Collections.Immutable.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Memory.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Numerics.Vectors.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Reflection.Metadata.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Build.Framework.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.NET.StringTools.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.pdb
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\RectangularArea.exe.config
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.Testing.Platform.MSBuild.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\NuGet.Frameworks.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Buffers.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Collections.Immutable.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Memory.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Numerics.Vectors.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Reflection.Metadata.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\cs\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\de\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\en\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\es\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\fr\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\it\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ja\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ko\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pl\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\ru\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\tr\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.csproj.AssemblyReference.cache
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.csproj.CoreCompileInputs.cache
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\obj\Debug\Rectangu.9BC168A5.Up2Date
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.dll
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\obj\Debug\RectangularAreaTester.pdb
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\DataDienTich\TestDienTich.csv
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\DataChuVi\TestChuVi.csv
+D:\BTL_KiemThuPhanMem\RectangularArea\RectangularAreaTester\bin\Debug\UnitTest2.cs

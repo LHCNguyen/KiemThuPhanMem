@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTL_KiemThuPhanMem\\RectangularArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6C45FA-E7CC-48C0-9E70-2DD99A98794D}|RectangularAreaTester\\RectangularAreaTester.csproj|d:\\btl_kiemthuphanmem\\rectangulararea\\rectangularareatester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C45FA-E7CC-48C0-9E70-2DD99A98794D}|RectangularAreaTester\\RectangularAreaTester.csproj|solutionrelative:rectangularareatester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6C45FA-E7CC-48C0-9E70-2DD99A98794D}|RectangularAreaTester\\RectangularAreaTester.csproj|D:\\BTL_KiemThuPhanMem\\RectangularArea\\rectangularareatester\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C45FA-E7CC-48C0-9E70-2DD99A98794D}|RectangularAreaTester\\RectangularAreaTester.csproj|solutionrelative:rectangularareatester\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest2.cs",
+              "DocumentMoniker": "D:\\BTL_KiemThuPhanMem\\RectangularArea\\RectangularAreaTester\\UnitTest2.cs",
+              "RelativeDocumentMoniker": "RectangularAreaTester\\UnitTest2.cs",
+              "ToolTip": "D:\\BTL_KiemThuPhanMem\\RectangularArea\\RectangularAreaTester\\UnitTest2.cs",
+              "RelativeToolTip": "RectangularAreaTester\\UnitTest2.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:18:14.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\BTL_KiemThuPhanMem\\RectangularArea\\RectangularAreaTester\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RectangularAreaTester\\UnitTest1.cs",
+              "ToolTip": "D:\\BTL_KiemThuPhanMem\\RectangularArea\\RectangularAreaTester\\UnitTest1.cs",
+              "RelativeToolTip": "RectangularAreaTester\\UnitTest1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:18:09.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

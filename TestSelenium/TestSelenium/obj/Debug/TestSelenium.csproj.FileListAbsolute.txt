@@ -1,0 +1,34 @@
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe.config
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\TestSelenium.pdb
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.AssemblyReference.cache
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.Form1.resources
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.Properties.Resources.resources
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.GenerateResource.cache
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.CoreCompileInputs.cache
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.exe
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.pdb
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\selenium-manager\linux\selenium-manager
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\selenium-manager\macos\selenium-manager
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.dll
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\WebDriver.dll
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.xml
+E:\kiểm thử phần mềm NUNIT\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.CopyComplete
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\selenium-manager\linux\selenium-manager
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\selenium-manager\macos\selenium-manager
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe.config
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\TestSelenium.pdb
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.dll
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\WebDriver.dll
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.xml
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.AssemblyReference.cache
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSelenium.Form1.resources
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSelenium.Properties.Resources.resources
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.GenerateResource.cache
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.CoreCompileInputs.cache
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSele.A9159B33.Up2Date
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSelenium.exe
+D:\BTL_KiemThuPhanMem\TestSelenium\TestSelenium\obj\Debug\TestSelenium.pdb
